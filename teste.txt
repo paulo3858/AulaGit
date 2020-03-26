@@ -3,11 +3,6 @@
 		<title>AulaGit</title>
 	</head>
 	<body bgcolor="yellow">
-		<h1 align="center">Aula Git</h1>
-		<p align="center">
-		Nessa aula aprendemos o conceito do git, iniciar um 
-		repositorio, adicionar um arquivo no Stage, commitar um 
-		arquivo e fazer o upload para o gitHub.
-		</p>
+		<h1 align="center">TEM QUE OLHAR OS ARQUIVOS PROFESSOR</h1>
 	</body>
 </html>
