@@ -4,5 +4,10 @@
 	</head>
 	<body>
 		<h1>Aula Git</h1>
+		<p>
+		Nessa aula aprendemos o conceito do git, iniciar um 
+		repositorio, adicionar um arquivo no Stage, commitar um 
+		arquivo e fazer o upload para o gitHub.
+		</p>
 	</body>
 </html>
